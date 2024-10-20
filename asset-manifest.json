@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/angle-calculator/static/js/main.0f59734f.js",
+    "main.js": "/angle-calculator/static/js/main.4fee963c.js",
     "static/media/compass.png": "/angle-calculator/static/media/compass.4e9d1175d7d5e608f7d4.png",
     "index.html": "/angle-calculator/index.html",
-    "main.0f59734f.js.map": "/angle-calculator/static/js/main.0f59734f.js.map"
+    "main.4fee963c.js.map": "/angle-calculator/static/js/main.4fee963c.js.map"
   },
   "entrypoints": [
-    "static/js/main.0f59734f.js"
+    "static/js/main.4fee963c.js"
   ]
 }
